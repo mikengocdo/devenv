@@ -1,2 +1,2 @@
-data/redis/
-data/db/
+data/redis/*
+data/db/*
